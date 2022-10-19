@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariusB5
+- 👋 Hi, I’m Marius
 - 👀 I’m interested in programming and testing software
 - 🌱 I’m currently learning Python, Selenium, Automation Testing
 - 💞️ I’m looking to collaborate on Python projects
