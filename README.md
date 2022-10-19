@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Marius
-- 👀 I’m interested in programming and testing software
-- 🌱 I’m currently learning Python, Selenium, Automation Testing
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in programming, scripting and testing software
+- 🌱 I’m currently learning Python, Selenium, Automation
+- 💞️ I’m looking to collaborate on: Python and automation/scrapping/crawling projects
 - 📫 How to reach me: marius.briscut5@gmail.com
+- ✨ My GitHub Gists: https://gist.github.com/MariusB5
 
 <!---
 MariusB5/MariusB5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
