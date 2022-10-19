@@ -1,4 +1,4 @@
-- 👋 Hello World! I’m Marius
+- 👋 Hi there, I’m Marius
 - 👀 I’m interested in: programming, scripting, automating and testing software
 - 🌱 I’m currently learning: Python, Selenium and Automation Testing
 - 💞️ I’m looking to collaborate on: any Python and automation/scrapping/crawling projects
