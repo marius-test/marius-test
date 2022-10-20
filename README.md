@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Marius
 - 👀 I’m interested in: programming, scripting, automating and testing software
 - 🌱 I’m currently learning: Python, Selenium and Automation Testing
-- 💞️ I’m looking to collaborate on: Python and automation/scraping/crawling projects
+- 💞️ I’m looking to collaborate on: Python and automation/scripting projects
 - 📫 How to reach me: marius.briscut5@gmail.com
 - ✨ My GitHub Gists: https://gist.github.com/MariusB5
 
