@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Marius
+- 👋 Hello, I’m Marius
 - 👀 I’m interested in: programming, scripting, automating, testing software and game development.
 - 🌱 I’m currently learning: python, selenium, automation and game development.
 - 💞️ I’m looking to collaborate on: python, automation/scripting projects or game development.
