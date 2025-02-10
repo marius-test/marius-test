@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on: python, automation/scripting projects or game development.
 - 📫 How to reach me: marius.briscut5@gmail.com
 - ✨ My programming snippets: https://gist.github.com/MariusB5
+- ⭐ My starred lists: https://github.com/MariusB5?tab=stars
 
 <!---
 MariusB5/MariusB5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
