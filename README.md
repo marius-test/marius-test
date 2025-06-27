@@ -1,7 +1,11 @@
-- 👋 Hello, I’m Marius
-- 👀 I’m interested in: programming, scripting, automating, testing software and game development.
-- 🌱 I’m currently learning: python, selenium, automation and game development.
-- 🐍 I’m looking to collaborate on: python, automation/scripting projects or game development.
-- 📫 How to reach me: marius.briscut5@gmail.com
-- ✨ My programming snippets: https://gist.github.com/marius-test
-- ⭐ My starred lists: https://github.com/marius-test?tab=stars
+- 👋 Hi, I’m Marius  
+- 👀 Interests: programming, scripting, automation, software testing, game development
+
+- 🧪 QA veteran available for testing and QA collaborations  
+- 🐍 Collaborating on Python projects, especially automation and scripting  
+- 🎮 Working on game development projects using Godot Engine
+
+- ✨ Programming snippets: https://gist.github.com/marius-test  
+- ⭐ Starred repositories: https://github.com/marius-test?tab=stars
+
+- 📫 Reach me at: marius.briscut5@gmail.com  
