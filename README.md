@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Marius  
+- 👋 Hi, I’m Marius:  
+  - Seasoned QA veteran with 5+ years of professional experience  
+  - Programming enthusiast, especially in Python  
+  - Aspiring game developer specializing in Godot Engine  
 - 👀 Interests: programming, scripting, automation, software testing, game development  
 - Open to:  
-  - 🧪 Collaborations in testing and QA (seasoned QA veteran with 5+ years professional experience)  
+  - 🧪 Collaborations in testing and QA  
   - 🐍 Python projects, especially automation and scripting  
   - 🎮 Game development using Godot Engine  
 - ✨ Programming snippets: https://gist.github.com/marius-test  
