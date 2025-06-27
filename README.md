@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Marius:  
-  - Seasoned QA veteran with 5+ years of professional experience  
-  - Programming enthusiast, especially in Python  
+  - Seasoned QA veteran with 5+ years professional experience  
+  - Programming enthusiast with a passion for Python  
   - Aspiring game developer specializing in Godot Engine  
 - 👀 Interests: programming, scripting, automation, software testing, game development  
 - Open to:  
   - 🧪 Collaborations in testing and QA  
   - 🐍 Python projects, especially automation and scripting  
   - 🎮 Game development using Godot Engine  
-- ✨ Programming snippets: https://gist.github.com/marius-test  
-- ⭐ Starred repositories: https://github.com/marius-test?tab=stars  
+- ✨ My programming snippets: https://gist.github.com/marius-test  
+- ⭐ My starred repositories: https://github.com/marius-test?tab=stars  
 - 📫 Reach me at: marius.briscut5@gmail.com  
