@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Marius
-- 👀 Interests: programming, scripting, automation, software testing, game development
-- 🧪 QA veteran available for testing and QA collaborations
-- 🐍 Collaborating on Python projects, especially automation and scripting
-- 🎮 Working on game development projects using Godot Engine
-- ✨ Programming snippets: https://gist.github.com/marius-test
-- ⭐ Starred repositories: https://github.com/marius-test?tab=stars
-- 📫 Reach me at: marius.briscut5@gmail.com
+- 👋 Hi, I’m Marius  
+- 👀 Interests: programming, scripting, automation, software testing, game development  
+- Open to:  
+  - 🧪 Collaborations in testing and QA (seasoned QA veteran with 5+ years professional experience)  
+  - 🐍 Python projects, especially automation and scripting  
+  - 🎮 Game development using Godot Engine  
+- ✨ Programming snippets: https://gist.github.com/marius-test  
+- ⭐ Starred repositories: https://github.com/marius-test?tab=stars  
+- 📫 Reach me at: marius.briscut5@gmail.com  
