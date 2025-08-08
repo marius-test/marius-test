@@ -1,7 +1,7 @@
 - 🌐 Website: [https://marius-test.github.io/](https://marius-test.github.io/)
 
 - 👋 Hi, I’m Marius:  
-  - Seasoned QA veteran with 5+ years professional experience  
+  - QA veteran with 5+ years professional experience  
   - Programming enthusiast with a passion for Python  
   - Aspiring game developer in Godot Engine  
 - 👀 Interests: programming, scripting, automation, software testing, game development  
