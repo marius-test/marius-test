@@ -9,5 +9,5 @@
   - 🎮 Game development using Godot Engine  
 - ✨ My programming snippets: https://gist.github.com/marius-test  
 - ⭐ My starred repositories: https://github.com/marius-test?tab=stars  
+- 🌐 My Website: [https://marius-test.github.io](https://marius-test.github.io)
 - 📫 Reach me at: marius.briscut5@gmail.com
-- 🌐 Website: [https://marius-test.github.io](https://marius-test.github.io)
