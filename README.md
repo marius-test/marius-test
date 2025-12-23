@@ -1,6 +1,6 @@
 👋 **Hi, I’m Marius**  
 💼 6+ years in QA, making software reliable and robust  
-🐍 Python & programming enthusiast
+🐍 Python & programming enthusiast  
 🎮 Aspiring game developer using Godot Engine  
 
 📚 **Interests:** Programming, scripting, automation, software testing, game development  
